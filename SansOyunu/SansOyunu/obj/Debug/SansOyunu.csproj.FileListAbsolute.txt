@@ -1,0 +1,10 @@
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\bin\Debug\SansOyunu.exe.config
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\bin\Debug\SansOyunu.exe
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\bin\Debug\SansOyunu.pdb
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\obj\Debug\SansOyunu.csproj.AssemblyReference.cache
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\obj\Debug\SansOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\obj\Debug\SansOyunu.Properties.Resources.resources
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\obj\Debug\SansOyunu.csproj.GenerateResource.cache
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\obj\Debug\SansOyunu.csproj.CoreCompileInputs.cache
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\obj\Debug\SansOyunu.exe
+C:\Users\snaim\Desktop\Steam854\SansOyunu\SansOyunu\obj\Debug\SansOyunu.pdb
